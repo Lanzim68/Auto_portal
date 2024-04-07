@@ -7,7 +7,7 @@ License: https://bootstrapmade.com/license/
 В бутстрапе тоже есть подключение иконок
 https://www.youtube.com/watch?v=bRYsxIFpUBY&t=11s
 Подключается стиль в хеадере и скрипт в конце боди
-
+!! Иконки - это подключение шрифтов типа Symbol
 
 
 
